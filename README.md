@@ -49,4 +49,4 @@ Access Server Admin Web Interface 提供了一个直观的工具来管理 OpenVP
 
 - 有疑问请参考：https://openvpn.net/vpn-software-packages/centos/<br>
 
-- Telegram交流:https://t.me/xiaoshen_i<br>
+- Telegram交流：https://t.me/xiaoshen_i<br>
