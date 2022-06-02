@@ -25,8 +25,8 @@
 
 **第二步**<br>
 从软件仓库安装 OpenVPN Access Server<br>
-- yum -y install https://as-repository.openvpn.net/as-repo-centos7.rpm<br>
-- yum -y install openvpn-as<br>
+<pre><code>yum -y install https://as-repository.openvpn.net/as-repo-centos7.rpm</code></pre>
+<pre><code>yum -y install openvpn-as</code></pre>
 
 **第三步**<br>
 
