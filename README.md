@@ -19,9 +19,9 @@
 
 **第一步**<br>
 安装更新并设置正确的时间  <br>
-- yum update<br>
-- timedatectl<br>
-- timedatectl --help<br>
+<pre><code>yum update
+timedatectl
+timedatectl --help</code></pre>
 
 **第二步**<br>
 从软件仓库安装 OpenVPN Access Server<br>
