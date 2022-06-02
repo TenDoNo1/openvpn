@@ -20,9 +20,9 @@ CentOS 7<br>
 
 **第一步**
 
-yum update
-timedatectl
-timedatectl --help
+yum update<br>
+timedatectl<br>
+timedatectl --help<br>
 
 **第二步**
 从软件仓库安装 OpenVPN Access Server
