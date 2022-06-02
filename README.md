@@ -1,19 +1,19 @@
 **重要的事说三遍**
 
-脚本只提供学习交流，请在法律允许范围内使用！！！！<br>
-脚本只提供学习交流，请在法律允许范围内使用！！！！<br>
-脚本只提供学习交流，请在法律允许范围内使用！！！！<br>
+- 脚本只提供学习交流，请在法律允许范围内使用！！！！<br>
+- 脚本只提供学习交流，请在法律允许范围内使用！！！！<br>
+- 脚本只提供学习交流，请在法律允许范围内使用！！！！<br>
    
 -openvpn服务一键搭建脚本<br>
 -[x]官方稳定版<br>
 
 **介绍**<br>
-一个Shell脚本，集成openvpn搭建，管理，启动，添加账号等基本操作。基于socks5官方的辅助脚本。<br>
+- 一个Shell脚本，集成openvpn搭建，管理，启动，添加账号等基本操作。基于socks5官方的辅助脚本。<br>
 - 脚本只提供学习交流，请在法律允许范围内使用！！！！<br>
 
 **系统支持**<br>
 
-CentOS 7<br>
+- CentOS 7<br>
 
 **复制以下命令执行**<br>
 
@@ -35,7 +35,7 @@ CentOS 7<br>
 
 **第四步**<br>
 
-在Web界面完成配置和设置用户<br>
+- 在Web界面完成配置和设置用户<br>
 - 使用上一步中的信息，连接到 Admin Web UI 并使用openvpn用户和密码登录。<br>
 
 例如：https:// address /admin/<br>
@@ -47,6 +47,6 @@ Access Server Admin Web Interface 提供了一个直观的工具来管理 OpenVP
 
 **写在最后**<br>
 
-有疑问请参考：https://openvpn.net/vpn-software-packages/centos/<br>
+- 有疑问请参考：https://openvpn.net/vpn-software-packages/centos/<br>
 
-Telegram交流:https://t.me/xiaoshen_i<br>
+- Telegram交流:https://t.me/xiaoshen_i<br>
