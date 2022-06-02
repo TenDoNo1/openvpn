@@ -7,13 +7,13 @@
 -openvpn服务一键搭建脚本<br>
 -[x]官方稳定版<br>
 
-##介绍##
-一个Shell脚本，集成openvpn搭建，管理，启动，添加账号等基本操作。基于socks5官方的辅助脚本。
-1.安装更新并设置正确的时间  
-- 脚本只提供学习交流，请在法律允许范围内使用！！！！
+**介绍**
+一个Shell脚本，集成openvpn搭建，管理，启动，添加账号等基本操作。基于socks5官方的辅助脚本。<br>
+1.安装更新并设置正确的时间  <br>
+- 脚本只提供学习交流，请在法律允许范围内使用！！！！<br>
 
 ##系统支持##
-*CentOS 7
+*CentOS 7<br>
 
 ##复制以下命令执行##
 
@@ -46,9 +46,9 @@ Access Server Admin Web Interface 提供了一个直观的工具来管理 OpenVP
 但第一次访问时，会收到无法确定网站安全性或隐私性的警告。这是意料之中的。Access Server 带有一个自签名的、不受信任的 SSL 证书，以便 Web 服务能够正常运行。
 您可以覆盖此警告消息并继续。我们建议您  为您的访问服务器 设置一个有效的 DNS 主机名并安装一个有效的签名 SSL 证书 来解决此消息。
 
-**写在最后**
+**写在最后**<br>
 
-有疑问请参考：https://openvpn.net/vpn-software-packages/centos/
+有疑问请参考：https://openvpn.net/vpn-software-packages/centos/<br>
 
 
-***Telegram交流:https://t.me/xiaoshen_i
+***Telegram交流:https://t.me/xiaoshen_i<br>
