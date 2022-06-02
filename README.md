@@ -12,10 +12,10 @@
 1.安装更新并设置正确的时间  <br>
 - 脚本只提供学习交流，请在法律允许范围内使用！！！！<br>
 
-##系统支持##
+**系统支持**
 *CentOS 7<br>
 
-##复制以下命令执行##
+**复制以下命令执行**<br>
 
 **第一步**
 
@@ -51,4 +51,4 @@ Access Server Admin Web Interface 提供了一个直观的工具来管理 OpenVP
 有疑问请参考：https://openvpn.net/vpn-software-packages/centos/<br>
 
 
-***Telegram交流:https://t.me/xiaoshen_i<br>
+**Telegram交流:https://t.me/xiaoshen_i<br>
