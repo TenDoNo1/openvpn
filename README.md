@@ -9,7 +9,6 @@
 
 **介绍**<br>
 一个Shell脚本，集成openvpn搭建，管理，启动，添加账号等基本操作。基于socks5官方的辅助脚本。<br>
-1.安装更新并设置正确的时间  <br>
 - 脚本只提供学习交流，请在法律允许范围内使用！！！！<br>
 
 **系统支持**<br>
@@ -19,7 +18,7 @@ CentOS 7<br>
 **复制以下命令执行**<br>
 
 **第一步**
-
+安装更新并设置正确的时间  <br>
 yum update<br>
 timedatectl<br>
 timedatectl --help<br>
