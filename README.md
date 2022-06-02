@@ -19,24 +19,24 @@ CentOS 7<br>
 
 **第一步**<br>
 安装更新并设置正确的时间  <br>
-yum update<br>
-timedatectl<br>
-timedatectl --help<br>
+-yum update<br>
+-timedatectl<br>
+-timedatectl --help<br>
 
 **第二步**<br>
 从软件仓库安装 OpenVPN Access Server<br>
-yum -y install https://as-repository.openvpn.net/as-repo-centos7.rpm<br>
-yum -y install openvpn-as<br>
+-yum -y install https://as-repository.openvpn.net/as-repo-centos7.rpm<br>
+-yum -y install openvpn-as<br>
 
 **第三步**<br>
 
-记下 Web 界面访问和登录凭据<br>
-安装openvpn-as软件包后，记下 Admin UI 和 Client UI 地址以及为您的管理用户openvpn随机生成的密码。<br>
+-记下 Web 界面访问和登录凭据<br>
+-安装openvpn-as软件包后，记下 Admin UI 和 Client UI 地址以及为您的管理用户openvpn随机生成的密码。<br>
 
 **第四步**<br>
 
-在Web界面完成配置和设置用户<br>
-使用上一步中的信息，连接到 Admin Web UI 并使用openvpn用户和密码登录。<br>
+-在Web界面完成配置和设置用户<br>
+- 使用上一步中的信息，连接到 Admin Web UI 并使用openvpn用户和密码登录。<br>
 
 例如：https:// address /admin/<br>
 （将地址替换为您服务器的 IP 或 DNS 主机名）<br>
